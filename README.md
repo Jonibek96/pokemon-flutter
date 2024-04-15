@@ -52,10 +52,7 @@ flutter pub get
 flutter run
 ```
 
-```
-screenshots
-```
-![main.jpg](assets/images/main.jpg)
-![list-pokemon.jpg](assets/images/list-pokemon.jpg)
-![search-list.jpg](assets/images/search-list.jpg)
-![details.jpg](assets/images/details.jpg)
+### Screenshots
+
+<img src="assets/images/main.jpg" width="200"> | <img src="assets/images/list-pokemon.jpg" width="200">
+<img src="assets/images/details.jpg" width="200"> | <img src="assets/images/search-list.jpg" width="200">
